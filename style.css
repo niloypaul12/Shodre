@@ -66,3 +66,42 @@
 .categories img{
     width: 130px;
 }
+
+/* card section  */
+.card-body .card-text{
+    text-align: justify;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    /* box-shadow: 5px 10px 10px lightblue; */
+}
+
+/* subscibe section  */
+ #grey{
+     color: lightslategrey;
+ }
+
+.rounded-1{
+    border:.1px solid grey;
+    padding: 5px;
+}
+
+#subscribe h6{
+    color: grey;
+    font-weight: normal;
+    text-align: center;
+}
+
+#sub{
+    margin-left: 6rem;
+}
+
+footer{
+    text-align: center;
+}
+
+hr{
+    color: rgb(137, 5, 5);
+}
